@@ -2,6 +2,8 @@
 A tool for mass extracting genome sequences a given number of base pairs upstream and downstream of a series of genes' coding sequence. 
 Also available as a colab notebook for simple direct use: https://colab.research.google.com/drive/1bIqw_f8G-xxg1OtmZN0nkTObgSgMm61d?usp=sharing
 
+NOTE: although intended for Anabaena sp. PCC 7120, given the right files containing genome information and sequences it could be applied to other organisms.
+
 This script requires several external items as input that must be provided:
 1. The genome dataframe
 2. All relevant genomic sequences (chromosome and plasmids, both direct and complementary)

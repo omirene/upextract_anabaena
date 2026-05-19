@@ -1,6 +1,6 @@
 # upextract_anabaena
 A tool for mass extracting genome sequences a given number of base pairs upstream and downstream of a series of genes' coding sequence. 
-Also available as a colab notebook for simple direct use.
+Also available as a colab notebook for simple direct use: https://colab.research.google.com/drive/1bIqw_f8G-xxg1OtmZN0nkTObgSgMm61d?usp=sharing
 
 This script requires several external items as input that must be provided:
 1. The genome dataframe
